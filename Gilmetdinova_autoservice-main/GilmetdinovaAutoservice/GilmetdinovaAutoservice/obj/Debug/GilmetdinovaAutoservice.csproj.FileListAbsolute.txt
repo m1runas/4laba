@@ -99,3 +99,30 @@ D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilme
 D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CopyComplete
 D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
 D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe.config
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.pdb
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.dll
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.xml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.AssemblyReference.cache
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_Content.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.cache
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.lref
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.baml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.baml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.baml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.baml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.g.resources
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.Properties.Resources.resources
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.GenerateResource.cache
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CoreCompileInputs.cache
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CopyComplete
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
