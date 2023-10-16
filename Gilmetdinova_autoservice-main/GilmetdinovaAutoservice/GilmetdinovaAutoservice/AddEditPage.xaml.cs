@@ -20,45 +20,9 @@ namespace GilmetdinovaAutoservice
     /// </summary>
     public partial class AddEditPage : Page
     {
-        private Service _currentService=new Service();
-        public AddEditPage(Service SelectedService)
+        public AddEditPage()
         {
             InitializeComponent();
-            if (SelectedService != null)
-                _currentService = SelectedService;
-            //При инициализации установим DataContext страницы - этот созданный объект
-            DataContext = _currentService;
-        }
-
-        private void SaveButton_Click(object sender, RoutedEventArgs e)
-        {
-            StringBuilder errors= new StringBuilder();
-
-            if (string.IsNullOrWhiteSpace(_currentService.Title))
-                errors.AppendLine("Укажите название услуги!");
-            if (_currentService.Cost == 0)
-                errors.AppendLine("Укажите стоимость услуги!");
-            if (_currentService.Discount == null)
-                errors.AppendLine("Укажите скидку");
-            if (string.IsNullOrWhiteSpace(_currentService.Duration))
-                errors.AppendLine("Укажите длительность услуги");
-            if(errors.Length > 0)
-            {
-                MessageBox.Show(errors.ToString());
-                return;
-            }
-            if (_currentService.ID == 0)
-                Gilmetdinova_autoserviceEntities.GetContext().Service.Add(_currentService);
-            try
-            {
-                Gilmetdinova_autoserviceEntities.GetContext().SaveChanges();
-                MessageBox.Show("Информация сохранена");
-                Manager.MainFrame.GoBack();
-            }
-            catch(Exception ex)
-            {
-                MessageBox.Show(ex.Message.ToString());
-            }
         }
     }
 }
