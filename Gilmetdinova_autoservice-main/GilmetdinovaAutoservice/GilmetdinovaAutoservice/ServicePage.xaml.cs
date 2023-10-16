@@ -20,7 +20,6 @@ namespace GilmetdinovaAutoservice
     /// </summary>
     public partial class ServicePage : Page
     {
-        
         public ServicePage()
         {
             InitializeComponent();
@@ -32,7 +31,7 @@ namespace GilmetdinovaAutoservice
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Manager.MainFrame.Navigate(new AddEditPage(null));
+            Manager.MainFrame.Navigate(new AddEditPage());
         }
 
         private void TBoxSearch_TextChanged(object sender, TextChangedEventArgs e)
@@ -97,25 +96,6 @@ namespace GilmetdinovaAutoservice
                 currentServices = currentServices.OrderBy(p => p.Cost).ToList();
             }
             ServiceListView.ItemsSource= currentServices;
-        }
-
-        private void AddButton_Click(object sender, RoutedEventArgs e)
-        {
-            Manager.MainFrame.Navigate(new AddEditPage(null));
-        }
-
-        private void EditButton_Click(object sender, RoutedEventArgs e)
-        {
-            Manager.MainFrame.Navigate(new AddEditPage((sender as Button).DataContext as Service));
-        }
-
-        private void Page_IsVisibleChanged(object sender, DependencyPropertyChangedEventArgs e)
-        {
-            if(Visibility== Visibility.Visible)
-            {
-                Gilmetdinova_autoserviceEntities.GetContext().ChangeTracker.Entries().ToList().ForEach(p =>p.Reload());
-                ServiceListView.ItemsSource = Gilmetdinova_autoserviceEntities.GetContext().Service.ToList();
-            }
         }
     }
 }
