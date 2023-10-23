@@ -1,0 +1,213 @@
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe.config
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.pdb
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.g.cs
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.g.cs
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.cache
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.lref
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.baml
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.g.resources
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.Properties.Resources.resources
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.GenerateResource.cache
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CoreCompileInputs.cache
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.g.cs
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.g.cs
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.baml
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.baml
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.baml
+C:\Users\руся\Desktop\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe.config
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_Content.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.lref
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.g.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.Properties.Resources.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CopyComplete
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main (1)\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe.config
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_Content.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.lref
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.g.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.Properties.Resources.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CopyComplete
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe.config
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_Content.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.lref
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.g.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.Properties.Resources.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CopyComplete
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\4 laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe.config
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.pdb
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.dll
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.xml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.AssemblyReference.cache
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_Content.g.cs
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.cache
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.lref
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.baml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.baml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.baml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.baml
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.g.resources
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.Properties.Resources.resources
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.GenerateResource.cache
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CoreCompileInputs.cache
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CopyComplete
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
+C:\Users\УАТ\Documents\GitHub\4laba\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe.config
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_Content.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.lref
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.g.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.Properties.Resources.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CopyComplete
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe.config
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_Content.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.lref
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.g.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.Properties.Resources.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CopyComplete
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\SignUpPage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\локал\Gilmetdinova_autoservice-main\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\SignUpPage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe.config
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\GilmetdinovaAutoservice.pdb
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\SignUpPage.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_Content.g.cs
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice_MarkupCompile.lref
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\App.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\ServicePage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\SignUpPage.baml
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.g.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.Properties.Resources.resources
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.csproj.CopyComplete
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.exe
+D:\3 курс\ИСП-3121\Гильметдинова Руслана\GilmetdinovaAutoservice\GilmetdinovaAutoservice\obj\Debug\GilmetdinovaAutoservice.pdb
